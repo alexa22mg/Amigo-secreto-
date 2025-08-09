@@ -15,3 +15,7 @@ JavaScript
 
 El ojetivo del proyecto es practicar y reforzar la lógica de programación en JavaScript, trabajando con arrays, manipulación del DOM y manejo de eventos.
 
+Pantalla del sorteo del juego 
+Ingreso de Nombres y sorteo.
+![image alt](https://github.com/alexa22mg/Amigo-secreto-/blob/da24cc9c5911d6ac6ca9654c276e776739682ab6/image.png)
+
